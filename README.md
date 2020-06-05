@@ -3,6 +3,7 @@
 [domainwat.ch](https://domainwat.ch/?lang=en)
 
 - WHOIS
+    - [Whois Query Sample](https://domainwat.ch/about?lang=en)
 - Website Information
 
 # Usage
